@@ -34,8 +34,8 @@ This project is a backend application developed with NestJS that provides a simp
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nestfirstapp.git
-cd nestfirstapp
+git clone https://github.com/IgnaLog/first-nestjs-app.git
+cd first-nestjs-app
 ```
 
 ### 2. Install Dependencies
